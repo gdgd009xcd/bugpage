@@ -1,0 +1,18 @@
+
+---
+---
+
+header h1 {
+  width: 540px;
+  margin-top: 0;
+  margin-bottom: 0.2em;
+  font-size: 40px;
+  font-weight: normal;
+  line-height: 1;
+  color: #fff;
+  letter-spacing: -1px;
+}
+
+@import "{{ site.theme }}";
+
+
