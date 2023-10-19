@@ -1,2 +1,3 @@
 # bugpage
-arbitary Github site for debugging
+This page is primarily used to test Github pages.
+So this is my playground.
