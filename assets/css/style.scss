@@ -17,3 +17,10 @@ header h1 {
   color: #0f0;
   letter-spacing: -1px;
 }
+
+.inner {
+  position: relative;
+  width: 940px;
+  margin: 0 auto;
+  overflow-wrap: break-word;
+}
