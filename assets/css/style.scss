@@ -16,6 +16,9 @@ header h1 {
   line-height: 1;
   color: #0f0;
   letter-spacing: -1px;
-  overflow-wrap: break-word;
+}
+
+.inner {
+    overflow-wrap: break-word;
 }
 
