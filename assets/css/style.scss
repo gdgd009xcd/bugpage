@@ -16,10 +16,11 @@ header h1 {
   line-height: 1;
   color: #0f0;
   letter-spacing: -1px;
+  overflow-wrap: break-word;
+  word-wrap: break-all;
 }
 
 .inner {
-    overflow-wrap: break-word;
-    word-wrap: break-all;
+
 }
 
