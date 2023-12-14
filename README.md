@@ -3,3 +3,10 @@ This page is primarily used to test Github pages.
 So this is my playground.
 
 ![typical usage](assets/images/typical.gif)
+
+In markdown syntax, at mark(@) is userlink.
+
+goto repo: @gdgd009xcd
+
+
+
