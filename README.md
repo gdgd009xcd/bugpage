@@ -30,7 +30,8 @@ commit at mark sign test2
    value is "firefox", "firefox-headless"(default), "chrome", "chrome-headless".<br>
    I choosed "chrome-headless". but despite changed this value, you may need proper chrome browser and WebDriver for using DomXssScanRule. so this solution is to avoid hangup only and DomXssScanRule will still skipped in scanning.<br>
 
-3. If you have any doubts whether this scanner is actually being called, you can import the [CustomScan.policy](CustomScan.policy) file. This policy forces only the use of CustomScanRules when invoking active scan. using guide is follows:<br><br>
+3. CustomScan.policy file<br>
+If you have any doubts whether this scanner is actually being called, you can import the [CustomScan.policy](CustomScan.policy) file. This policy forces only the use of CustomScanRules when invoking active scan. using guide is follows:<br>
 
     1. download [CustomScan.policy](CustomScan.policy)
     1. select menu [Analyse->Scan Policy Manager->import], and load CustomScan.policy file.
